@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+   xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Corey Coffee and Conspiracies</title>
+    <link>http://happilyhinton.ga/ccc.html</link>
+    <language>en-us</language>
+    <copyright>&#169; 2021 Corey Gordon</copyright>
+    <itunes:author>Corey Gordon</itunes:author>
+    <description>
+      Examining the events of history and current events through a biblical worldview.
+    </description>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:owner>william.t.hinton@gmail.com</googleplay:owner>
+    <itunes:owner>
+      <itunes:name>Corey Gordon</itunes:name>
+      <itunes:email>william.t.hinton@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="http://happilyhinton.ga/artwork2.png"
+    />
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Saturn Worship(video)</title>
+      <itunes:image
+      href="http://happilyhinton.ga/CCC/Saturn_Worship.jpg"/>
+      <description>
+        Part 1
+      </description>
+      <enclosure
+        length="192975886" 
+        type="video/mp4" 
+        url="http://happilyhinton.ga/CCC/Saturn_Worship1.mp4"
+      />
+      <guid>20210106v</guid>
+      <pubDate>Wed, 06 Jan 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3606</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <title>Saturn Worship</title>
+      <itunes:image
+      href="http://happilyhinton.ga/CCC/Saturn_Worship.jpg"/>
+      <description>
+        Part 1
+      </description>
+      <enclosure
+        length="57704831" 
+        type="audio/mpeg" 
+        url="http://happilyhinton.ga/CCC/Saturn_Worship1.mp3"
+      />
+      <guid>20210106a</guid>
+      <pubDate>Wed, 06 Jan 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3606</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Saturn Worship(video)</title>
+      <itunes:image
+      href="http://happilyhinton.ga/CCC/Saturn_Worship.jpg"/>
+      <description>
+        Part 2
+      </description>
+      <enclosure
+        length="180410415" 
+        type="video/mp4" 
+        url="http://happilyhinton.ga/CCC/Saturn_Worship2.mp4"
+      />
+      <guid>20210113v</guid>
+      <pubDate>Wed, 06 Jan 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3552</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <title>Saturn Worship</title>
+      <itunes:image
+      href="http://happilyhinton.ga/CCC/Saturn_Worship.jpg"/>
+      <description>
+        Part 2
+      </description>
+      <enclosure
+        length="56853312" 
+        type="audio/mpeg" 
+        url="http://happilyhinton.ga/CCC/Saturn_Worship2.mp3"
+      />
+      <guid>20210113a</guid>
+      <pubDate>Wed, 13 Jan 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3552</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Saturn Worship(video)</title>
+      <itunes:image
+      href="http://happilyhinton.ga/CCC/Saturn_Worship.jpg"/>
+      <description>
+        Part 3
+      </description>
+      <enclosure
+        length="197126168" 
+        type="video/mp4" 
+        url="http://happilyhinton.ga/CCC/Saturn_Worship3.mp4"
+      />
+      <guid>20210120v</guid>
+      <pubDate>Wed, 20 Jan 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3655</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <title>Saturn Worship</title>
+      <itunes:image
+      href="http://happilyhinton.ga/CCC/Saturn_Worship.jpg"/>
+      <description>
+        Part 3
+      </description>
+      <enclosure
+        length="58482235" 
+        type="audio/mpeg" 
+        url="http://happilyhinton.ga/CCC/Saturn_Worship3.mp3"
+      />
+      <guid>20210120a</guid>
+      <pubDate>Wed, 20 Jan 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3655</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <title>Body Soul and Spirit</title>
+      <itunes:image
+      href="http://happilyhinton.ga/CCC/BSS.jpg"/>
+      <description>
+        Part 1
+      </description>
+      <enclosure
+        length="56389796" 
+        type="audio/mpeg" 
+        url="http://happilyhinton.ga/CCC/BSS1.mp3"
+      />
+      <guid>20200722a</guid>
+      <pubDate>Wed, 22 Jul 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3524</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <title>Body Soul and Spirit</title>
+      <itunes:image
+      href="http://happilyhinton.ga/CCC/BSS.jpg"/>
+      <description>
+        Part 2
+      </description>
+      <enclosure
+        length="55804233" 
+        type="audio/mpeg" 
+        url="http://happilyhinton.ga/CCC/BSS2.mp3"
+      />
+      <guid>20200729a</guid>
+      <pubDate>Wed, 29 Jul 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3488</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <title>Body Soul and Spirit</title>
+      <itunes:image
+      href="http://happilyhinton.ga/CCC/BSS.jpg"/>
+      <description>
+        Part 3
+      </description>
+      <enclosure
+        length="58896855" 
+        type="audio/mpeg" 
+        url="http://happilyhinton.ga/CCC/BSS3.mp3"
+      />
+      <guid>20200805a</guid>
+      <pubDate>Wed, 05 Aug 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3681</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
